@@ -1,0 +1,21 @@
+Package: bloodstats
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1.0
+Authors@R: 
+    person(given = "Lauri",
+           family = "Ahonen",
+           role = c("aut", "cre"),
+           email = "lauri.ahonen@nightingalehealth.com")
+Description: Functions and other utilities for basic statistics on blood 
+    metabolomics data.
+Depends:
+    R (>= 3.5.0)
+Imports:
+    dplyr,
+    magrittr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
