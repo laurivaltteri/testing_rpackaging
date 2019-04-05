@@ -1,3 +1,5 @@
+[![Travis-CI Build Status](https://travis-ci.org/laurivaltteri/testing_rpackaging.svg?branch=master)](https://travis-ci.org/laurivaltteri/testing_rpackaging)
+
 bloodstats
 ----------
 
